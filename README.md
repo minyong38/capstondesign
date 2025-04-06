@@ -29,12 +29,12 @@ Expo 기반의 React Native 앱으로, 사용자 인터페이스와 기능 구�
 ---
 
 npm install @react-navigation/native-stack \
-            @react-navigation/bottom-tabs \
-            @react-native-async-storage/async-storage \
-            react-native-svg \
-            react-native-reanimated \
-            expo-linear-gradient \
-            react-native-safe-area-context \
-            react-native-gesture-handler
+npm install @react-navigation/bottom-tabs \
+npm install @react-native-async-storage/async-storage \
+npm install react-native-svg \
+npm install react-native-reanimated \
+npm install expo-linear-gradient \
+npm install react-native-safe-area-context \
+npm install react-native-gesture-handler
             
 위 명령어는 expo install 대신 일반 npm install로도 동작하지만, Expo 사용자라면 expo install 사용을 권장합니다.
