@@ -36,5 +36,7 @@ npm install react-native-reanimated \
 npm install expo-linear-gradient \
 npm install react-native-safe-area-context \
 npm install react-native-gesture-handler
+npx expo install @ui-kitten/components @eva-design/eva
+
             
 위 명령어는 expo install 대신 일반 npm install로도 동작하지만, Expo 사용자라면 expo install 사용을 권장합니다.
